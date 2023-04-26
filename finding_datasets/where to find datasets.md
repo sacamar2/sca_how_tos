@@ -7,6 +7,7 @@ The places with the biggest volume of updated dataset are:
 - https://explore.openaire.eu/
 - https://zenodo.org/
 - https://www.kaggle.com/datasets/
+- https://inspire.ec.europa.eu/
 
 ## Specialized datasets by category
 
